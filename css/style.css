@@ -133,6 +133,7 @@ body {
 }
 
 .header-icon-box {
+    white-space: nowrap;
     position: absolute;
     z-index: 5000;
     margin-top: 32px;
